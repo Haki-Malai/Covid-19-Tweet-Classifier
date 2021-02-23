@@ -36,6 +36,7 @@ And their predictions on the examples below:
  * I tested possitive for Covid-19
  * Julian is sick
  * Raw is not sick
+
 Are:
 * Recurrent Neural Network: [0 1 0 1 1 0]
 * Logistic Regression : [0 1 0 1 1 1]
