@@ -16,6 +16,7 @@ The Twitter API gives more privileges to most other big social media platforms, 
 
   Out of all the neural network models that were given a chance, the bidirectional recurrent network had the highest results with a steady F1-score of 0.98+. Other machine learning algorithms were used as well that were provided from the library sklearn. 
   The results of the algorithms:
+  * Recurrent Neural Network: 98 %
 * Logistic Regression : 69 %
 * Decision Tree Classification : 97 %
 * Gradient Boosting Classification : 93 %
